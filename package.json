@@ -1,0 +1,12 @@
+{
+  "name": "sentiment-analysis-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Analyze text sentiment instantly. Returns positive, negative, or neutral with confidence score.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "author": "George (george.the.developer)",
+  "license": "ISC"
+}
