@@ -8,6 +8,10 @@
 
 Analyze text sentiment instantly. Returns positive, negative, or neutral with a confidence score. No external AI costs. Runs entirely on a built in word lexicon. Every request costs fractions of a cent.
 
+## 简介
+
+实时文本情感分析API。判断正面、负面或中性，返回置信度评分。无需外部AI费用，基于词汇表分析。
+
 ## How It Works
 
 ```mermaid
